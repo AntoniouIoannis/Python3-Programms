@@ -17,8 +17,7 @@ for i in range(30):
                          'concentrated on its southern coastline. Together with Thrace, and sometimes also Thessaly and'
                          'Epirus, it is part of Northern Greece. Macedonia encompasses entirely the southern part of '
                          'the wider region of Macedonia, making up 51% of the total area of that region. '
-                         '\nAdditionally, it forms part of Greeces borders with three countries:'
-                         'Bulgaria to the northeast, Scopia to the north, and Albania to the northwest. '
+               
                          '\n\tMacedonia incorporates most of the territories of ancient Macedon, a kingdom ruled by the'
                          'Argeads, whose most celebrated members were Alexander the Great and his father Philip II. '
                          'Before the expansion of Macedonia under Philip in the 4th century BC, the kingdom of the '
